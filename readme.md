@@ -57,11 +57,10 @@ Represents an individual task with:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multi-user-todo-app.git
-cd multi-user-todo-app
+git clone https://github.com/muhammadsufiyanbaig/todoapp.git
+cd todoapp
 ```
 
-> Replace `your-username` with your GitHub username if hosted on GitHub.
 
 ---
 
